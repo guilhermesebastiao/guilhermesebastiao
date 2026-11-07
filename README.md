@@ -15,10 +15,10 @@
 <img src="https://api.visitorbadge.io/api/VisitorHit?user=guisebastiao&repo=github-visitors-badge&countColor=%23155dfc&label=VISITANTES%20%F0%9F%94%A5" width="195px" />
 
 <div>
-    <a href="https://www.linkedin.com/in/guilherme-sebastiao" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/guilhermesebastiao" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logoColor=white">
     </a>
-    <a href="https://guisebastiao.com.br" target="_blank" rel="noreferrer">
+    <a href="https://guilhermesebastiao.dev" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/PORTFOLIO-52C6FF?style=for-the-badge&logoColor=white" />
     </a>
 </div>
